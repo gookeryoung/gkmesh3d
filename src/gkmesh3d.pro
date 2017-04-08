@@ -2,4 +2,5 @@ TEMPLATE = subdirs
 SUBDIRS += 3rdparty \
     geomimporter \
     mesher \
-    solver
+    solver \
+    gkmesh3d
